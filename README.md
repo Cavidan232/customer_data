@@ -1,51 +1,62 @@
 # Customer Data Analysis with Pandas
 
-This project is a beginner-friendly practice project focused on analyzing customer data using **Python** and **Pandas**.
+A beginner-to-intermediate data analysis practice project using **Python and Pandas** to explore, clean, filter, and analyze customer data.
 
-## 📊 What I Practiced
+## 📊 Project Overview
 
-* Loading CSV data with Pandas
-* Exploring DataFrame structure
-* Checking rows and columns
-* Calculating averages and minimum/maximum values
-* Filtering data
-* Sorting data
+In this project, I worked with a customer dataset and practiced common data analyst tasks, including:
+
+* Exploring DataFrames
+* Filtering data using multiple conditions
+* Sorting and selecting data
+* Calculating statistics with `mean()`, `sum()`, `min()`, and `max()`
 * Grouping data with `groupby()`
-* Counting customers
-* Calculating total spending
+* Using `agg()` for multiple calculations
+* Creating pivot tables with `pivot_table()`
+* Creating new calculated columns
+* Detecting and handling missing values
+* Detecting and removing duplicate records
+* Working with customer spending and purchase activity
 
 ## 🛠️ Technologies
 
 * Python
 * Pandas
+* NumPy
 * Jupyter Notebook
 
 ## 📁 Dataset
 
-The dataset contains customer information such as:
+The dataset contains customer-related information such as:
 
 * Customer ID
 * First Name
 * Last Name
-* Email
 * Gender
 * Age
 * City
 * State
 * Country
-* Orders
-* Total Spent
+* Purchase Count
+* Total Spend
 * Average Order Value
 * Created At
 
 ## 🎯 Goal
 
-The goal of this project is to improve my practical **Python and Pandas** skills through hands-on customer data analysis.
+The main goal of this project is to improve practical **Python and Pandas skills** and build a stronger foundation for real-world data analysis.
 
 ## 🚀 Next Steps
 
-* Data cleaning
-* More advanced filtering
-* Aggregation
+* Date and time analysis
+* More advanced data cleaning
 * Data visualization
-* Further exploratory data analysis
+* Exploratory Data Analysis (EDA)
+* SQL practice
+* More real-world datasets
+
+## 👨‍💻 Author
+
+**Cavidan Vəlizadə**
+
+Aspiring Data Analyst | Front-End Developer | Mathematics & Informatics Teacher
